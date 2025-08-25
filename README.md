@@ -20,4 +20,4 @@ A simple and efficient translation app that leverages a language translation API
 
 ---
 
-## 📂 Project Structure
+
