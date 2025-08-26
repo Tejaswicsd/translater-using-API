@@ -1,4 +1,4 @@
-# 🌐 Translater using API
+# 🌐 Translater using API(Personal project)
 
 A simple and efficient translation app that leverages a language translation API to convert text between multiple languages.
 
